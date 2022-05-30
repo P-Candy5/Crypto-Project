@@ -11,8 +11,12 @@ export default function Unorder() {
         <li>
           <Link to="/deposit">Deposit</Link>
         </li>
-        <li>Fees</li>
-        <li>Merchant</li>
+        <li>
+          <Link to="/fees">Fees</Link>
+        </li>
+        <li>
+          <Link to="/merchant">Merchant</Link>
+        </li>
       </ul>
     </section>
   );
