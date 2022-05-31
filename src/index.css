@@ -849,3 +849,11 @@ route {
   grid-template-columns: 1fr 1fr;
   gap: 30px;
 }
+
+.flex {
+  display: flex;
+}
+
+.align-center {
+  align-items: center;
+}
